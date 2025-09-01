@@ -1,0 +1,135 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --bg-1: #141414ff;
+  --bg-2: #1f1f1fff;
+  --bg-3: #919191;
+
+  --color-1: #ffffffff;
+  --color-2: #c5f82aff;
+
+  /* font */
+  --font-1: 700 1.56rem/1 "Inter", sans-serif;
+  --font-2: 700 1rem/1.2 "Inter", sans-serif;
+  --font-3: 400 12px/1.2 "Inter", sans-serif;
+  --font-4: 400 12px/133% "Inter", sans-serif;
+}
+
+/* utilidade Btn */
+.btn {
+  list-style: none;
+}
+
+.btn a {
+  display: flex;
+  justify-content: center; /* Alinha horizontalmente */
+  align-items: center;
+  width: auto;
+  height: 35px;
+  border-radius: 6px;
+  background: linear-gradient(357deg, #202020 2.7%, #555555 97.3%);
+  align-self: center;
+  font: var(--font-2);
+  text-decoration: none;
+  color: var(--color-1);
+  text-align: center;
+  letter-spacing: 1px;
+  transition: background 0.5s ease, color 0.3s ease;
+}
+
+.btn a:hover,
+.btn a:active,
+.btn a:focus,
+.btn a:focus-visible {
+  background: linear-gradient(182deg, #b0e521 1.82%, #587800 98.18%);
+  color: var(--bg-2);
+  font-weight: 900;
+}
+
+body {
+  background-color: #171515;
+}
+
+.container {
+  max-width: 345px;
+  height: auto;
+  margin-top: 100px;
+  margin-inline: auto;
+  padding-inline: 37.5px;
+  padding-block: 44px;
+  background-color: #1f1f1f;
+  border-radius: 5px;
+  margin-bottom: 80px;
+}
+
+.container img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+  box-shadow: 3px 0 4px 0 rgba(176, 229, 33, 0.25),
+    -3px 0 4px 0 rgba(176, 229, 33, 0.25), 0 -3px 4px 0 rgba(176, 229, 33, 0.25),
+    0 3px 4px 0 rgba(176, 229, 33, 0.25);
+  margin-bottom: 25px;
+}
+
+h1 {
+  color: var(--color-1);
+  text-align: center;
+  margin-bottom: 10px;
+  font: var(--font-1);
+}
+
+.endereco {
+  text-align: center;
+  color: var(--color-2);
+  font: var(--font-3);
+  margin-bottom: 30px;
+}
+
+.formacao {
+  text-align: center;
+  font: var(--font-4);
+  color: var(--bg-3);
+  margin-bottom: 10px;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+footer {
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 40px; /* ou o valor que quiser */
+  background-color: #202020;
+  display: flex; /* Adicione esta linha */
+  justify-content: center; /* Adicione esta linha */
+  align-items: center; /* Adicione esta linha */
+}
+
+footer p {
+  font: var(--font-4);
+  color: var(--bg-3);
+}
+
+footer a {
+  color: #9dce17;
+  text-decoration: none;
+  padding-block: 10px;
+}
+
+footer a:hover,
+footer a:active,
+footer a:focus,
+footer a:focus-visible {
+  color: #ffffff;
+}
