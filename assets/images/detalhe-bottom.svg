@@ -1,12 +1,12 @@
-<svg width="31" height="31" viewBox="0 0 31 31" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="29" cy="29" r="2" transform="rotate(180 29 29)" fill="#666666" fill-opacity="0.75"/>
-<circle cx="20" cy="29" r="2" transform="rotate(180 20 29)" fill="#666666" fill-opacity="0.75"/>
-<circle cx="20" cy="20" r="2" transform="rotate(180 20 20)" fill="#666666" fill-opacity="0.75"/>
-<circle cx="29" cy="20" r="2" transform="rotate(180 29 20)" fill="#666666" fill-opacity="0.75"/>
-<circle cx="20" cy="11" r="2" transform="rotate(180 20 11)" fill="#666666" fill-opacity="0.75"/>
-<circle cx="29" cy="11" r="2" transform="rotate(180 29 11)" fill="#666666" fill-opacity="0.75"/>
-<circle cx="29" cy="2" r="2" transform="rotate(180 29 2)" fill="#666666" fill-opacity="0.75"/>
-<circle cx="11" cy="29" r="2" transform="rotate(180 11 29)" fill="#666666" fill-opacity="0.75"/>
-<circle cx="11" cy="20" r="2" transform="rotate(180 11 20)" fill="#666666" fill-opacity="0.75"/>
-<circle cx="2" cy="29" r="2" transform="rotate(180 2 29)" fill="#666666" fill-opacity="0.75"/>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="29.73" cy="29.7299" rx="2" ry="2" transform="rotate(180 29.73 29.7299)" fill="#666666" fill-opacity="0.75"/>
+<ellipse cx="20.7301" cy="29.73" rx="2" ry="2" transform="rotate(180 20.7301 29.73)" fill="#666666" fill-opacity="0.75"/>
+<ellipse cx="20.7301" cy="20.73" rx="2" ry="2" transform="rotate(180 20.7301 20.73)" fill="#666666" fill-opacity="0.75"/>
+<ellipse cx="29.73" cy="20.73" rx="2" ry="2" transform="rotate(180 29.73 20.73)" fill="#666666" fill-opacity="0.75"/>
+<ellipse cx="20.7301" cy="11.73" rx="2" ry="2" transform="rotate(180 20.7301 11.73)" fill="#666666" fill-opacity="0.75"/>
+<ellipse cx="29.73" cy="11.73" rx="2" ry="2" transform="rotate(180 29.73 11.73)" fill="#666666" fill-opacity="0.75"/>
+<ellipse cx="29.73" cy="2.72998" rx="2" ry="2" transform="rotate(180 29.73 2.72998)" fill="#666666" fill-opacity="0.75"/>
+<ellipse cx="11.73" cy="29.73" rx="2" ry="2" transform="rotate(180 11.73 29.73)" fill="#666666" fill-opacity="0.75"/>
+<ellipse cx="11.73" cy="20.73" rx="2" ry="2" transform="rotate(180 11.73 20.73)" fill="#666666" fill-opacity="0.75"/>
+<ellipse cx="2.7301" cy="29.73" rx="2" ry="2" transform="rotate(180 2.7301 29.73)" fill="#666666" fill-opacity="0.75"/>
 </svg>
