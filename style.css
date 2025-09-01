@@ -35,19 +35,19 @@
   align-self: center;
   font: var(--font-2);
   text-decoration: none;
-  color: var(--color-1);
+  color: #e5e5e5;
   text-align: center;
   letter-spacing: 1px;
-  transition: background 0.5s ease, color 0.3s ease;
+  transition: background 0.3s, color 0.3s;
 }
 
 .btn a:hover,
 .btn a:active,
 .btn a:focus,
 .btn a:focus-visible {
-  background: linear-gradient(182deg, #b0e521 1.82%, #587800 98.18%);
+  background: linear-gradient(182deg, #bdea44 1.82%, #78a400 98.18%);
   color: var(--bg-2);
-  font-weight: 900;
+  transition: all 0.5s ease-in-out;
 }
 
 body {
