@@ -57,13 +57,13 @@ body {
 .container {
   max-width: 345px;
   height: auto;
-  margin-top: 155px;
+  margin-top: 250px;
   margin-inline: auto;
   padding-inline: 37.5px;
   padding-block: 44px;
   background-color: #1f1f1f;
   border-radius: 5px;
-  margin-bottom: 80px;
+  margin-bottom: 250px;
   position: relative;
 }
 

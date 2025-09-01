@@ -6,7 +6,7 @@
 
 Este é um projeto de perfil de links sociais, desenvolvido como parte de um desafio do Frontend Mentor. Ele é uma página simples, responsiva e com foco em acessibilidade, que lista links para diferentes plataformas sociais.
 
-Acesse a página online: [Link para o seu GitHub Pages ou outro host]
+Acesse a página online: [Link para a Página](https://emersonromana.github.io/links-profile-FrontMentor/)
 
 ![Visualização do projeto](./assets/images/image%202.jpg)
 
